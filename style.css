@@ -1,0 +1,47 @@
+.body-1{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 700px;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.image {
+    width: 360px;
+    height: 360px;
+}
+
+.h1{
+    font-size: 14px;
+}
+
+h2 {
+    margin: 6px;
+}
+
+.p1{
+    font-size: 16px;
+}
+
+.p2{
+    font-size: 14px;
+}
+
+@media (max-width: 600px) {
+    .body {
+        padding: 10px;
+    }
+}
+
+
+
+
+
